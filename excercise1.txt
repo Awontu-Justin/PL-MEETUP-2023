@@ -1,0 +1,6 @@
+x,y=10,2.5
+print(x+y): this will print the sum of x and y which is 12.5.
+print(x/y): This will print the quotient of x and y which is 4.0.
+print("Difference of x and y is",x-y): this will print 7.5.
+print("x*y=:"+x*y): this will print an error as string cannot be concatenated with numbers.
+print(x+"is stored in x"): Error;
